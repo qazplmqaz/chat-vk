@@ -1,0 +1,7 @@
+vk_api
+poe
+pydub
+io
+gtts
+speech_recognition
+requests
